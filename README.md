@@ -11,6 +11,6 @@ Identifying the factors which affect the output variable.
 Checking if there are any biases in your dataset.
 Counting the null values existing in columns.
 Removing the null value rows in the target variable.
-Perforing train_test_split.
+Performing train_test_split of the dataset.
 Predicting the accuracy using regression models.
 Checking and comparing the accuracy of the different models.
